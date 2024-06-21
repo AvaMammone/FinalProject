@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="about.html">About</a></li>
+        <li><a href="sale.html">Sale Horses</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="about">
+      <h1>About Us</h1>
+      <div class="about-content">
+        <img src="about.jpg" alt="head trainer">
+        <div class="about-text">
+          <p>We strive to train and offer the best horses in the area.  We are located in New Brighton, PA, and have 12 years of experience in the equine field.  Our goal is to match clients with the perfect partner!</p>
+          <p>We value positive relationships with our clients and invite them to visit their horse while in training.  After bringing your new partner home, we are still here for clients and offer lifetime suport!</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+</body>
+</html>
+
