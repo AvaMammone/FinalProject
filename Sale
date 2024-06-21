@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="about.html">About</a></li>
+        <li><a href="sale.html">Sale Horses</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="sale">
+      <h1>Sale Horses</h1>
+      <div class="sale-grid">
+        <div class="sale-card">
+          <img src="Winston.jpg" alt="Winston">
+          <h3>WINSTON- 2015 Paint x TWH Gelding</h3>
+          <p>Winston is a 9 year old black tobiano gelding, standing at 14 hands high.   He would do best in a trail home.  He is more woah than go!</p>
+           <ul>
+             <li>Loads into all trailers</li> 
+             <li>Sidepasses both away and towards</li> 
+             <li>Loves lazy rides through the woods</li>
+             <li>Calm in new environments (expericnce at many shows)</li> 
+             <li>Knows barrel and pole bending patterns</li>
+             <li>Knows the 'smile' trick</li> 
+           </ul>
+          <p>$6,500</p>
+         
+        </div>
+        
+        <div class="sale-card">
+          <img src="Wren" alt="Wren">
+          <h3>WREN- 2019 BLM Mustang</h3>
+          <p>Wren is a 5 year old sorrel mare, standing at 14.2 hands high.  She is green undersaddle but enjoys having a job.  She is a great trail horse, but would also excel in diciplines including reining and gaming.  Wren would requuire an experienced rider to continue her training as she as she is still very young.</p>
+          <ul>
+             <li>Loads into stock and slant trailers</li> 
+             <li>Sidepasses both away and towards</li> 
+             <li>Knows the 'smile' trick</li> 
+             <li>Reliable trail horse</li>
+             <li>Hauling experience</li> 
+             <li>Lightly started on barrel pattern</li>
+             <li>Being introduced to foundation of flying lead changes</li>
+           </ul>
+          <p>$5,000</p>
+         
+       
+       
+       </div>
+        <div class="sale-card">
+          <img src="Leo.jpg" alt="Leo">
+          <h3>LEO-  2002 Morgan x Standardbred</h3>
+          <p>Leo is a 22 year old black gelding, standing at 15.3 hands.  Don't let his age full you, he still full of energy and personality!  He would be great for a kid looking for a step-up horse.  Leo is a talented jumper, with years of expericnce doing so. </p>
+          
+           <ul>
+             <li>Loads into all trailers</li> 
+             <li>Sidepasses both away and towards</li> 
+             <li>Knows the 'smile' trick</li> 
+             <li>Reliable trail horse (can get a little hot on way home)</li>
+             <li>Hauling experience</li> 
+             <li>Jumped courses up to 3 ft</li>
+             <li>Some knowledge of flying lead changes</li>
+           </ul>
+          <p>$3,500</p>
+          
+        </div>
+      </div>
+    </section>
+  </main>
+
+  
+</body>
+</html>
