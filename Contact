@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="about.html">About</a></li>
+        <li><a href="sale.html">Sale Horses</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section class="contact">
+      <h1>Get on the List!</h1>
+      <form>
+        <p>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required> 
+        </p>
+
+        <p>
+        <label for="email/phone-number">Email/Phone number:</label>
+        <input type="email/phone-number" id="email/phone-number" name="email/phone-number" required>
+        </p>
+
+        <p>
+        <label for="which">Which Sale horse/Service are you interested in?</label>
+        <textarea id="which" name="which" required></textarea>
+        </p>
+        
+        <p>
+        <label for="about">Tell us about your horse and their background. (IF INTERESTED IN SERVICE ONLY)</label>
+        <textarea id="about" name="about" required></textarea>
+        </p>
+        
+        <button type="submit">Submit</button>
+      </form>
+    </section>
+  </main>
+
+ 
+</body>
+</html>
+
+
+
