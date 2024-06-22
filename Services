@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="about.html">About</a></li>
+        <li><a href="sale.html">Sale Horses</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="services">
+      <h1>Our Training Services</h1>
+      <div class="service-list">
+        <div class="service-item">
+          <h3>Gentling</h3>
+          <p>We will take your untouched horses and halter break them, teach them to lift their feet, and trailer load. Generally, this takes 2-6 weeks.</p>
+        </div>
+        <div class="service-item">
+          <h3>Groundwork</h3>
+          <p>Your horse will be taught proper ground manners, lunging, sending, yielding hindquarters and forequarters, etc.  This can typically be done in 2-4 weeks.</p>
+        </div>
+        <div class="service-item">
+          <h3>Colt Starting</h3>
+          <p>Horses will learn to carry a saddle and then a rider.  They will learn to digengage their forequarters and hindquarters, steer, halt, back, and move out walk, trot, canter.  This service is offered at a 90 day minimum and basic groundwork knowledge is required.</p>
+        </div>
+        <div class="service-item">
+          <h3>Trick Training</h3>
+          <p>This service can be added to both the Groundwork and Colt starting packages.  Horses can learn to smile, sidepass in-hand, laydown, bow, and spanish walk.</p>
+        </div>
+        <div class="service-item">
+          <h3>Lifelong Support</h3>
+          <p>Even after your horse leaves our facility, we will be here to support you on your journey!  We are more than happy to answer any and all of your questions going forward!</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+ 
+</body>
+</html>
+
